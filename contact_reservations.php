@@ -1,7 +1,7 @@
 <?php
 if($_POST)
 {
-	$to_Email   	= "support@bestlooker.pro"; //Replace with recipient email address
+	$to_Email   	= "j.locandro119@gmail.com"; //Replace with recipient email address
 	$subject        = 'Message from website '.$_SERVER['SERVER_NAME']; //Subject line for emails
 	
 	
